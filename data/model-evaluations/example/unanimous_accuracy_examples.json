@@ -1,0 +1,26 @@
+[
+  {
+    "score": 0,
+    "path": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy_0_32b-full_task1_err1_5.json",
+    "imagePath": "raysketch-captures/task1/task1_err1_5.png",
+    "sourceId": "32b-full"
+  },
+  {
+    "score": 1,
+    "path": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy_1_7b-simple_task1_err1_5.json",
+    "imagePath": "raysketch-captures/task1/task1_err1_5.png",
+    "sourceId": "7b-simple"
+  },
+  {
+    "score": 2,
+    "path": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy_2_7b-full_task1_err1_2.json",
+    "imagePath": "raysketch-captures/task1/task1_err1_2.png",
+    "sourceId": "7b-full"
+  },
+  {
+    "score": 3,
+    "path": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy_3_32b-simple_task2_err3_2.json",
+    "imagePath": "raysketch-captures/task2/task2_err3_2.png",
+    "sourceId": "32b-simple"
+  }
+]

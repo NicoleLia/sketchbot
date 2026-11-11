@@ -1,0 +1,25 @@
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Dependency and build artifacts
+node_modules/
+dist/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Local model caches and generated outputs
+data/huggingface/
+data/generated-evaluations/
+data/expert-review-sessions/
+
+# Notebook/editor/OS files
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+*.log

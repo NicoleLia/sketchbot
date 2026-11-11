@@ -1,0 +1,14 @@
+{
+  "exportedAt": "2026-08-02T02:48:15",
+  "files": [
+    {
+      "file": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy0_guidance3_examples.json",
+      "count": 7
+    },
+    {
+      "file": "/Users/xli990/Library/Mobile Documents/com~apple~CloudDocs/research/CG/ray-tracing-backend/eval-results/example/accuracy1_guidance3_examples.json",
+      "count": 28
+    }
+  ],
+  "note": "No unanimous four-expert cases exist for either accuracy=0/guidance=3 or accuracy=1/guidance=3; these are single-expert examples."
+}

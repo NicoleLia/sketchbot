@@ -1,0 +1,23 @@
+scope,taskIndex,errorType,total,correct,incorrect,accuracy,errorRate
+overall,,,85,42,43,0.494118,0.505882
+task,1,,20,12,8,0.6,0.4
+task_error,1,Disconnected Components,5,3,2,0.6,0.4
+task_error,1,Highlight Location Wrong,5,0,5,0.0,1.0
+task_error,1,Impossible Rays,5,5,0,1.0,0.0
+task_error,1,Normal Not Orthogonal,5,4,1,0.8,0.2
+task,2,,20,8,12,0.4,0.6
+task_error,2,Invalid Ray Construction,5,0,5,0.0,1.0
+task_error,2,Missing Ray Construction,5,5,0,1.0,0.0
+task_error,2,Ray Concept Misconception,5,3,2,0.6,0.4
+task_error,2,Reflection Law Violations,5,0,5,0.0,1.0
+task,3,,25,9,16,0.36,0.64
+task_error,3,Missing Ray Construction,5,5,0,1.0,0.0
+task_error,3,Point Not In Shadow,5,2,3,0.4,0.6
+task_error,3,Shadow Misconceptions,5,1,4,0.2,0.8
+task_error,3,Shadow Ray W/O Light,5,1,4,0.2,0.8
+task_error,3,Unnecessary Rays,5,0,5,0.0,1.0
+task,4,,20,13,7,0.65,0.35
+task_error,4,Concept Misunderstanding,5,4,1,0.8,0.2
+task_error,4,Missing Ray Labels,5,2,3,0.4,0.6
+task_error,4,Random Ray,5,5,0,1.0,0.0
+task_error,4,Wrong CSG Object Intersection,5,2,3,0.4,0.6

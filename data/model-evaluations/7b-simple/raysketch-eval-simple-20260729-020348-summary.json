@@ -1,0 +1,222 @@
+[
+  {
+    "scope": "overall",
+    "taskIndex": null,
+    "errorType": null,
+    "total": 85,
+    "correct": 0,
+    "incorrect": 85,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task",
+    "taskIndex": 1,
+    "errorType": null,
+    "total": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 1,
+    "errorType": "Disconnected Components",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 1,
+    "errorType": "Highlight Location Wrong",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 1,
+    "errorType": "Impossible Rays",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 1,
+    "errorType": "Normal Not Orthogonal",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task",
+    "taskIndex": 2,
+    "errorType": null,
+    "total": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 2,
+    "errorType": "Invalid Ray Construction",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 2,
+    "errorType": "Missing Ray Construction",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 2,
+    "errorType": "Ray Concept Misconception",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 2,
+    "errorType": "Reflection Law Violations",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task",
+    "taskIndex": 3,
+    "errorType": null,
+    "total": 25,
+    "correct": 0,
+    "incorrect": 25,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 3,
+    "errorType": "Missing Ray Construction",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 3,
+    "errorType": "Point Not In Shadow",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 3,
+    "errorType": "Shadow Misconceptions",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 3,
+    "errorType": "Shadow Ray W/O Light",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 3,
+    "errorType": "Unnecessary Rays",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task",
+    "taskIndex": 4,
+    "errorType": null,
+    "total": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 4,
+    "errorType": "Concept Misunderstanding",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 4,
+    "errorType": "Missing Ray Labels",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 4,
+    "errorType": "Random Ray",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  },
+  {
+    "scope": "task_error",
+    "taskIndex": 4,
+    "errorType": "Wrong CSG Object Intersection",
+    "total": 5,
+    "correct": 0,
+    "incorrect": 5,
+    "accuracy": 0.0,
+    "errorRate": 1.0
+  }
+]
